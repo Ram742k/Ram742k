@@ -33,7 +33,7 @@ Thank you for taking the time to explore my GitHub profile. Have a great day! ðŸ
 ### ðŸ”— Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ramkumar-sundaram/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black)](https://github.com/your-github-username)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black)](https://github.com/Ram742k)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&labelColor=red)](mailto:ramkumar742k@gmail.com)
 
 ---
