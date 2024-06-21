@@ -36,16 +36,20 @@ Thank you for taking the time to explore my GitHub profile. Have a great day! �
 
 ### 📈 GitHub Stats
 
-![Ramkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Ramkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ram742k&show_icons=true&theme=radical)
 
 ### 🏆 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ram742k&layout=compact&theme=radical)
 
 ---
+### 📊   Most Used Languages 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ram742k&layout=compact&theme=dark&hide_border=false&border_radius=5&langs_count=10&hide_progress=true)
 
 
-<h3 align="left">🔥   My Stats :</h3>
+
+### 🔥   My Stats 
 
 ###
 
