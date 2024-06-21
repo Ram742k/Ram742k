@@ -37,10 +37,16 @@ Thank you for taking the time to explore my GitHub profile. Have a great day! �
 
 ## 🔥 My Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ram742k&show_icons=true&theme=dark" height="180" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=Ram742k&hide_border=true&theme=dark" height="180" alt="GitHub streak stats" />
-</div>
+
+<a href="https://github.com/Ram742k/github-readme-stats">
+  
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ram742k&show_icons=true" />
+</a>
+
+<a href="https://github.com/Ram742k/convoychat">
+  
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ram742k&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## 📊 Most Used Languages
 
