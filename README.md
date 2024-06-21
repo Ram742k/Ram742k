@@ -40,7 +40,7 @@ Thank you for taking the time to explore my GitHub profile. Have a great day! ðŸ
 
 <a href="https://github.com/Ram742k/github-readme-stats">
   
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ram742k&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ram742k&show_icons=true&theme=dark" />
 </a>
 
 <a href="https://github.com/Ram742k">
