@@ -35,7 +35,6 @@ Thank you for taking the time to explore my GitHub profile. Have a great day! ğŸ
 
 ---
 
-## ğŸ”¥ My Stats
 
 
 <a href="https://github.com/Ram742k/github-readme-stats">
@@ -48,13 +47,14 @@ Thank you for taking the time to explore my GitHub profile. Have a great day! ğŸ
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ram742k&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
-## ğŸ“Š Most Used Languages
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram742k&layout=compact&theme=dark&hide_border=true&langs_count=10" height="180" alt="most used languages" />
-</div>
 
 ---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ram742k&hide_border=true&show_icons=true)](https://git.io/streak-stats)
+
+
+
 
 ### ğŸ”— Connect with Me
 
