@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate software developer from Madurai, 
 - 🌐 **LinkedIn:** Connect with me on [LinkedIn](https://www.linkedin.com/in/ramkumar-sundaram/) for networking and professional updates.
 - 🌱 **Hobbies:** Coding, problem-solving, and constantly learning new technologies.
 - 🛠️ **Skills:** JavaScript, React, Node.js, Express, MongoDB, HTML, CSS, Git, and more.
-  
+
 ## Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
@@ -32,30 +32,23 @@ Feel free to reach out to me via email or connect with me on LinkedIn. I'm alway
 ## Thank You for Visiting!
 
 Thank you for taking the time to explore my GitHub profile. Have a great day! 😊
----
-
-### 📈 GitHub Stats
-
-![Ramkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ram742k&show_icons=true&theme=radical)
-
-### 🏆 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ram742k&layout=compact&theme=radical)
 
 ---
-### 📊   Most Used Languages 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ram742k&layout=compact&theme=dark&hide_border=false&border_radius=5&langs_count=10&hide_progress=true)
+## 🔥 My Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ram742k&show_icons=true&theme=dark" height="180" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=Ram742k&hide_border=true&theme=dark" height="180" alt="GitHub streak stats" />
+</div>
 
+## 📊 Most Used Languages
 
-### 🔥   My Stats 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ram742k&layout=compact&theme=dark&hide_border=true&langs_count=10" height="180" alt="most used languages" />
+</div>
 
-###
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ram742k&hide_border=true)](https://git.io/streak-stats)
-
-###
+---
 
 ### 🔗 Connect with Me
 
