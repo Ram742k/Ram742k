@@ -42,7 +42,7 @@ Thank you for taking the time to explore my GitHub profile. Have a great day! ðŸ
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Ram742k&show_icons=true" />
 </a>
 
-<a href="https://github.com/Ram742k/convoychat">
+<a href="https://github.com/Ram742k">
   
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ram742k&layout=compact&langs_count=8&card_width=300" />
 </a>
