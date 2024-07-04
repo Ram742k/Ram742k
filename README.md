@@ -55,7 +55,7 @@ Thank you for taking the time to explore my GitHub profile. Have a great day! ðŸ
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ram742k&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ram742k)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
